@@ -14,6 +14,11 @@ void draw(){
   background(255,255,255,200);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
+
+  var eyeSize;
+  eyeSize = 30;
+
+  var 
   
   ellipse(150, 70, 60, 120);  // left ear
   ellipse(240, 70, 60, 120);  // right ear
